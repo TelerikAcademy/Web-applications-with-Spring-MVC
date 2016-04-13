@@ -10,3 +10,15 @@ reporter is electron-crash-service
 [6288:12768:0413/122202:VERBOSE1:crash_service.cc(323)] client start. pid = 3704
 [6288:12392:0413/122202:VERBOSE1:crash_service.cc(331)] client end. pid = 3704
 [6288:12768:0413/122202:VERBOSE1:crash_service.cc(323)] client start. pid = 8836
+[6288:12768:0413/123015:VERBOSE1:crash_service.cc(323)] client start. pid = 10004
+[6288:11972:0413/123015:VERBOSE1:crash_service.cc(331)] client end. pid = 10004
+[6288:12768:0413/123016:VERBOSE1:crash_service.cc(323)] client start. pid = 6228
+[6288:11972:0413/123731:VERBOSE1:crash_service.cc(331)] client end. pid = 8836
+[6288:11972:0413/123732:VERBOSE1:crash_service.cc(331)] client end. pid = 6228
+[6288:11972:0413/123733:VERBOSE1:crash_service.cc(352)] zero clients. exiting
+[6288:12900:0413/123733:VERBOSE1:crash_service.cc(490)] session ending..
+[6288:12900:0413/123733:VERBOSE1:crash_service.cc(495)] clients connected :4
+clients terminated :4
+dumps serviced :0
+dumps reported :0
+[6288:12900:0413/123733:VERBOSE1:crash_service_main.cc(89)] Session end. return code is 0

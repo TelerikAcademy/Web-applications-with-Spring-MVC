@@ -71,8 +71,7 @@
     -   Automatically configure Spring whenever possible
     -   Absolutely no code generation and no requirement for XML configuration
 -   Spring boot is a easier way to create Spring applications
-    
-    
+
 <!-- section start -->
 
 <!-- attr: {  class:'slide-section', showInPresentation: true } -->
